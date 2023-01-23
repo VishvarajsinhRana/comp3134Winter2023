@@ -1,0 +1,61 @@
+1)github.com
+ Domain Server IP: 140.82.114.4
+
+ Location:-
+Country-US
+Region-California
+City-South Beach
+Latitude-37.78298
+Longitude--122.38969
+Time zone offset by UTC- -08:00
+Geoname ID-5326621
+
+2)youtube.com
+ Domain Server IP: 108.177.12.190
+
+ Location:-
+Country-US
+Region-California
+City-The Greenhouse
+Latitude-37.41889
+Longitude- -122.10361
+Time zone offset by UTC- -08:00
+Geoname ID- 7150361
+
+3)twitter.com
+ Domain Server IP: 104.244.42.193
+
+ Location:-
+Country-US
+Region-California
+City-Civic Center
+Latitude-37.77926
+Longitude- -122.41941
+Time zone offset by UTC- -08:00
+Geoname ID-8449788
+
+4)instagram.com
+ Domain Server IP: 157.240.14.174
+
+ Location:-
+Country-US
+Region-Florida
+City-Miami
+Latitude-25.77427
+Longitude- -80.19366
+Postal code-33101
+Time zone offset by UTC- -05:00
+Geoname ID-4164138
+
+5)spacex.com
+ Domain Server IP: 151.101.2.133
+
+ Location:-
+Country-US
+Region-California
+City-San Francisco
+Latitude-37.77493
+Longitude- -122.41942
+Postal code-94102
+Time zone offset by UTC- -08:00
+Geoname ID-5391959

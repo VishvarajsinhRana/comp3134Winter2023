@@ -1,0 +1,6 @@
+64 bytes from 137.184.172.66: icmp_seq=1 ttl=64 time=0.042 ms
+64 bytes from 137.184.172.66: icmp_seq=2 ttl=64 time=0.059 ms
+64 bytes from 137.184.172.66: icmp_seq=3 ttl=64 time=0.057 ms
+64 bytes from 137.184.172.66: icmp_seq=4 ttl=64 time=0.061 ms
+64 bytes from 137.184.172.66: icmp_seq=5 ttl=64 time=0.062 ms
+64 bytes from 137.184.172.66: icmp_seq=6 ttl=64 time=0.061 ms

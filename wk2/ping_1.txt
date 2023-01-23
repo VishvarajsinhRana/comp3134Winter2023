@@ -1,0 +1,6 @@
+64 bytes from 140.82.114.4: icmp_seq=2 ttl=245 time=16.8 ms
+64 bytes from 140.82.114.4: icmp_seq=3 ttl=245 time=16.9 ms
+64 bytes from 140.82.114.4: icmp_seq=4 ttl=245 time=17.0 ms
+64 bytes from 140.82.114.4: icmp_seq=5 ttl=245 time=16.9 ms
+64 bytes from 140.82.114.4: icmp_seq=6 ttl=245 time=27.0 ms
+64 bytes from 140.82.114.4: icmp_seq=7 ttl=245 time=16.9 ms

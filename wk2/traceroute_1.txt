@@ -1,0 +1,15 @@
+root@lamp-ubuntu-s-labcomp3134:~# traceroute www.instagram.com
+
+traceroute to 157.240.14.174 (157.240.14.174), 30 hops max, 60 byte packets
+ 1  162.243.190.6 (162.243.190.6)  1.587 ms  0.499 ms 162.243.190.7 (162.243.190.7)  0.306 ms
+ 2  138.197.249.80 (138.197.249.80)  1.449 ms 138.197.249.94 (138.197.249.94)  1.358 ms 138.197.249.80 (138.197.249.80)  1.177 ms
+ 3  138.197.249.82 (138.197.249.82)  0.753 ms  0.635 ms  0.547 ms
+ 4  toro-b1-link.ip.twelve99.net (62.115.9.209)  1.358 ms toro-b1-link.ip.twelve99.net (62.115.55.29)  1.273 ms toro-b1-link.ip.twelve99.net (62.115.9.209)  1.247 ms
+ 5  chi-b23-link.ip.twelve99.net (62.115.136.246)  10.754 ms  15.541 ms  15.526 ms
+ 6  atl-b24-link.ip.twelve99.net (62.115.113.18)  29.407 ms atl-b24-link.ip.twelve99.net (62.115.134.10)  32.030 ms atl-b24-link.ip.twelve99.net (62.115.113.18)  31.994 ms
+ 7  mai-b2-link.ip.twelve99.net (62.115.113.49)  43.609 ms  40.165 ms  40.403 ms
+ 8  fcl-ic337758-mai-b2.ip.twelve99-cust.net (213.248.91.131)  52.150 ms facebook-ic337875-mai-b2.ip.twelve99-cust.net (213.155.129.73)  52.132 ms facebook-ic-337874-mai-b1.ip.twelve99-cust.net (213.248.67.37)  50.363 ms
+ 9  po201.asw04.mia1.tfbnw.net (129.134.64.146)  41.175 ms po201.asw02.mia1.tfbnw.net (129.134.64.142)  41.159 ms po204.asw04.mia1.tfbnw.net (129.134.64.170)  41.142 ms
+10  po266.psw04.mia3.tfbnw.net (129.134.65.91)  44.118 ms po296.psw03.mia3.tfbnw.net (129.134.65.127)  46.137 ms po299.psw01.mia3.tfbnw.net (129.134.66.161)  50.022 ms
+11  157.240.36.33 (157.240.36.33)  44.064 ms 157.240.39.151 (157.240.39.151)  49.609 ms 157.240.39.59 (157.240.39.59)  52.570 ms
+12  instagram-p42-shv-02-mia3.fbcdn.net (157.240.14.174)  43.670 ms  44.066 ms  41.657 ms

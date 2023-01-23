@@ -1,0 +1,68 @@
+root@lamp-ubuntu-s-labcomp3134:~# nmap www.instagram.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-23 21:24 UTC
+Nmap scan report for www.instagram.com (31.13.80.174)
+Host is up (0.0017s latency).
+Other addresses for www.instagram.com (not scanned): 2a03:2880:f20e:e5:face:b00c:0:4420
+rDNS record for 31.13.80.174: instagram-p42-shv-01-yyz1.fbcdn.net
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+443/tcp  open   https
+843/tcp  closed unknown
+5222/tcp closed xmpp-client
+
+Nmap done: 1 IP address (1 host up) scanned in 4.95 seconds
+
+
+root@lamp-ubuntu-s-labcomp3134:~# nmap www.netflix.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-23 21:27 UTC
+Nmap scan report for www.netflix.com (44.240.158.19)
+Host is up (0.080s latency).
+Other addresses for www.netflix.com (not scanned): 52.38.7.83 44.242.13.161 2600:1f14:62a:de80:69a8:7b12:8e5f:855d 2600:1f14:62a:de82:822d:a423:9e4c:da8d 2600:1f14:62a:de81:b848:82ee:2416:447e
+rDNS record for 44.240.158.19: ec2-44-240-158-19.us-west-2.compute.amazonaws.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 7.01 seconds
+
+
+root@lamp-ubuntu-s-labcomp3134:~# nmap www.github.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-23 21:27 UTC
+Nmap scan report for www.github.com (140.82.112.3)
+Host is up (0.020s latency).
+rDNS record for 140.82.112.3: lb-140-82-112-3-iad.github.com
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.59 seconds
+
+
+root@lamp-ubuntu-s-labcomp3134:~# nmap www.telegram.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-23 21:34 UTC
+Nmap scan report for www.telegram.com (151.101.126.62)
+Host is up (0.0020s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.72 seconds
+
+
+root@lamp-ubuntu-s-labcomp3134:~# nmap www.amazon.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-23 21:35 UTC
+Nmap scan report for www.amazon.com (13.224.33.5)
+Host is up (0.0015s latency).
+Other addresses for www.amazon.com (not scanned): 2600:9000:2132:9e00:7:49a5:5fd2:8621 2600:9000:2132:5600:7:49a5:5fd2:8621 2600:9000:2132:3000:7:49a5:5fd2:8621 2600:9000:2132:ac00:7:49a5:5fd2:8621 2600:9000:2132:b600:7:49a5:5fd2:8621 2600:9000:2132:1400:7:49a5:5fd2:8621 2600:9000:2132:f600:7:49a5:5fd2:8621 2600:9000:2132:a800:7:49a5:5fd2:8621
+rDNS record for 13.224.33.5: server-13-224-33-5.yto50.r.cloudfront.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.64 seconds

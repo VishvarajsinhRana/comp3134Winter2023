@@ -1,0 +1,15 @@
+C:\Users\ranav>tracert 104.244.42.193
+
+Tracing route to 104.244.42.193 over a maximum of 30 hops
+
+  1     1 ms     1 ms     1 ms  10.0.64.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9    44 ms    35 ms    37 ms  104.244.42.193
+
+Trace complete.

@@ -1,0 +1,101 @@
+1)google.com
+
+Domain:google.com
+Registrar:MarkMonitor Inc.
+Registered On:1997-09-15
+Expires On:2028-09-13
+Updated On:2019-09-09
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+
+
+2)facebook.com
+
+Domain:facebook.com
+Registrar:RegistrarSafe, LLC
+Registered On:1997-03-29
+Expires On:2031-03-30
+Updated On:2022-01-26
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+
+
+3)tesla.com
+
+Domain:tesla.com
+Registrar:MarkMonitor Inc.
+Registered On:1992-11-04
+Expires On:2024-11-03
+Updated On:2022-10-02
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a1-12.akam.net
+a10-67.akam.net
+a12-64.akam.net
+a28-65.akam.net
+a7-66.akam.net
+a9-67.akam.net
+edns69.ultradns.biz
+edns69.ultradns.com
+edns69.ultradns.net
+edns69.ultradns.org
+
+
+4)amazon.com
+
+Domain:amazon.com
+Registrar:MarkMonitor Inc.
+Registered On:1994-11-01
+Expires On:2024-10-30
+Updated On:2019-05-07
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.p31.dynect.net
+ns2.p31.dynect.net
+ns3.p31.dynect.net
+ns4.p31.dynect.net
+pdns1.ultradns.net
+pdns6.ultradns.co.uk
+
+
+5)microsoft.com
+
+Domain:microsoft.com
+Registrar:MarkMonitor Inc.
+Registered On:1991-05-02
+Expires On:2023-05-03
+Updated On:2022-04-18
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1-39.azure-dns.com
+ns2-39.azure-dns.net
+ns3-39.azure-dns.org
+ns4-39.azure-dns.info
